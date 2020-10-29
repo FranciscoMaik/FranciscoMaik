@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hi, I'm Francisco Maik!</h1>
+<h3 align="center"> Developer Front-end and Back-end Junior, working very good in group, I learn fast and ever search new things. </h3>
+
+
 ### Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/francisco-maik-468511184/">
-    <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/francisco-maik-468511184/">
+  <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-### Hi, I'm Francisco Maik! 
 
 - 🌱 I’m currently learning  programming with JS and TS using the React library and the Node server-side Javascript execution environment.
 - 🎓 I'm majoring in Information Systems.
@@ -33,6 +34,12 @@ Here are some ideas to get you started:
 ### Experience
 - 🐍 One year with Python.
 - 💻 One year with JavaScript and TypeScript.
+
+### Statistics
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FranciscoMaik&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMaik)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 ### Skills
 <p align="center">
@@ -44,4 +51,3 @@ Here are some ideas to get you started:
   <img src= "https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src= "https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
-
