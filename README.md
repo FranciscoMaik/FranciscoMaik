@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Francisco Maik!</h1>
-<h3 align="center"> Developer Front-end and Back-end Junior, working very good in group, I learn fast and ever search new things. </h3>
+<h3 align="center"> Developer Front-end and Back-end Junior, work very good in group, I learn fast and ever search new things. </h3>
 
 
 ### Contact
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning  programming with JS and TS using the React library and the Node server-side Javascript execution environment.
 - 🎓 I'm majoring in Information Systems.
-- 🔭 I’m currently work on nothing.
+- 🔭 I’m currently working on nothing.
 - 👨🏻‍💼 I'am Project Management Director at Junior Juá.
 
 ### Experience
