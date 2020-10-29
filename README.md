@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+### About me
 
 - 🌱 I’m currently learning  programming with JS and TS using the React library and the Node server-side Javascript execution environment.
 - 🎓 I'm majoring in Information Systems.
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
 
 ### Statistics
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FranciscoMaik&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FranciscoMaik&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMaik)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
