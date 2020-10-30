@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on nothing.
 - 👨🏻‍💼 I'am Project Management Director at Company Junior Juá.
 
-### Experience
+### University Experience and Course
 - 🐍 One year with Python.
 - 💻 One year with JavaScript and TypeScript.
 
