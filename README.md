@@ -33,12 +33,13 @@ Here are some ideas to get you started:
 - 👨🏻‍💼 I'am Project Management Director at Company Junior Juá.
 
 ### University Experience and Course
-- 🐍 One year with Python.
-- 💻 One year with JavaScript and TypeScript.
+- 🐍 Three years with Python.
+- 💻 Two years with JavaScript and TypeScript.
+- 🎨 Three years with CSS and HTML
 
 ### Statistics
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FranciscoMaik&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMaik)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
