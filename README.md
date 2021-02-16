@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FranciscoMaik&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMaik)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMaik)
+
 
 ### Skills
 <p align="center">
