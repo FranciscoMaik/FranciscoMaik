@@ -32,10 +32,14 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on nothing.
 - 👨🏻‍💼 I'am Project Management Director at Company Junior Juá.
 
+
 ### University Experience and Course
 - 🐍 Three years with Python.
 - 💻 Two years with JavaScript and TypeScript.
 - 🎨 Three years with CSS and HTML
+
+### Experience
+- 👨🏻‍💼 I'am an intern at Startup Multiveículos.com (Developer and Project Manager). 
 
 ### Statistics
 
