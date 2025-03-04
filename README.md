@@ -1,28 +1,47 @@
-# 💫 About Me:
-🕒👨‍💻 3+ anos de carreira como desenvolvedor frontend usando ReactJS, NextJS, Styled-components, chakraUI, libs de testes, entre outras tenologias voltadas ao frontend!<br>🎓👨‍💻 Graduando em Sistemas de Informação pela Universidade Federal do Piauí - UFPI!<br>💻🔍 Conhecimentos em Tech Lead, análise e implementação de logs, e desenvolvimento mobile!<br>💡💰 Entusiasta de tecnologias para análise de risco, planejamento financeiro e desenvolvimento de gráficos!<br>🎯👨‍💻 Objetivos futuros incluem trabalhar com microfrontends e outras tecnologias voltadas para front e backend!
+![Image](https://github.com/user-attachments/assets/64f8fe30-bcce-4bb5-a4d9-8145720e1233)
+
+# 👨🏻‍💻 Olá! Sou Francisco Maik
+
+Desenvolvedor frontend apaixonado por criar soluções inovadoras com foco em **React** e **React Native**. Ao longo dos últimos **4 anos**, tenho dedicado minha carreira ao desenvolvimento de aplicações web e móveis, sempre buscando entregar produtos que combinem funcionalidade, usabilidade e design.
+
+## Atuação Profissional
+
+Atualmente, desempenho o papel de **Gerente de Tecnologia**, onde lidero equipes multidisciplinares, garantindo a integração eficiente entre as áreas de desenvolvimento e produto. Minhas responsabilidades incluem:
+
+- Gestão estratégica de projetos, desde a definição de roadmaps até a implementação de ferramentas como **Kanban** e **Gantt**.
+- Coordenação da comunicação entre equipes de desenvolvimento e produto.
+- Aplicação de metodologias ágeis para maximizar a produtividade e a qualidade das entregas.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-maik-fonseca-nunes-468511184/) 
+## Aprendizado Contínuo
+
+Sempre comprometido com o aprendizado contínuo, estou expandindo meus horizontes no universo do desenvolvimento de software. Atualmente, dedico meus estudos à linguagem **Kotlin**, explorando suas aplicações tanto no **backend** quanto no desenvolvimento **mobile**, com o objetivo de ampliar meu impacto técnico e contribuir para projetos ainda mais robustos e escaláveis.
+
+
+## Conexões e Colaborações
+
+Se você compartilha da mesma paixão por tecnologia ou deseja colaborar em projetos inovadores, fique à vontade para entrar em contato! Estou sempre aberto a novas oportunidades e trocas de conhecimento.
+
+
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14870c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-maik-fonseca-nunes-468511184/)
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FranciscoMaik&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FranciscoMaik&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMaik&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![JavaScript](https://img.shields.io/badge/javascript-%14870c.svg?style=for-the-badge&logo=javascript&logoColor=%white) ![TypeScript](https://img.shields.io/badge/typescript-%14870c.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%14870c.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%14870c.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%14870c.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-14870c?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-14870c?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%14870c.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%14870c.svg?style=for-the-badge&logo=react&logoColor=%white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FranciscoMaik&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+# 📊 Estatísticas GitHub:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FranciscoMaik&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoMaik&theme=tokyonight&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMaik&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FranciscoMaik&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=FranciscoMaik&icon=1&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🛤️ Caminho Profissional
+```mermaid
+graph TD
+    A[Gerente de Projetos] --> B[Desenvolvedor Web (NextJs)]
+    B --> C[Tech Lead Frontend]
+    B --> D[Desenvolvedor Mobile (React Native)]
+    C --> E[Gerente de Tecnologia]
+    D --> E
+    E --> F[Estudando Kotlin]
