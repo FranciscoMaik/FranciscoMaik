@@ -39,10 +39,10 @@ Se você compartilha da mesma paixão por tecnologia ou deseja colaborar em proj
 # 🛤️ Caminho Profissional
 ```mermaid
 graph TD
-    Gerente_de_Projetos --> Desenvolvedor_Web_(NextJs)
-    Desenvolvedor_Web_(NextJs) --> Tech_Lead_Frontend
-    Desenvolvedor_Web_(NextJs) --> Desenvolvedor_Mobile_(React_Native)
+    Gerente_de_Projetos --> Desenvolvedor_Web:NextJs
+    Desenvolvedor_Web:NextJs --> Tech_Lead_Frontend
+    Desenvolvedor_Web:NextJs --> Desenvolvedor_Mobile:React_Native
     Tech_Lead_Frontend --> Gerente_de_Tecnologia
-    Desenvolvedor_Mobile_(React_Native) --> Gerente_de_Tecnologia
+    Desenvolvedor_Mobile:React_Native --> Gerente_de_Tecnologia
     Gerente_de_Tecnologia --> Estudante_de_Kotlin:Backend_e_Mobile
 ```
