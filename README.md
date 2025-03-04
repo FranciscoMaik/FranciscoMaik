@@ -45,3 +45,4 @@ graph TD
     C --> E[Gerente de Tecnologia]
     D --> E
     E --> F[Estudando Kotlin]
+```
