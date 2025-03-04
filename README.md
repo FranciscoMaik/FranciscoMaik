@@ -39,7 +39,7 @@ Se você compartilha da mesma paixão por tecnologia ou deseja colaborar em proj
 # 🛤️ Caminho Profissional
 ```mermaid
 graph TD;
-    A-->B;
+    Gerente de Projetos-->B;
     A-->C;
     B-->D;
     C-->D;
