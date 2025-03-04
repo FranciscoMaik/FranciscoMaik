@@ -44,5 +44,5 @@ graph TD
     Desenvolvedor_Web_(NextJs) --> Desenvolvedor_Mobile_(React_Native)
     Tech_Lead_Frontend --> Gerente_de_Tecnologia
     Desenvolvedor_Mobile_(React_Native) --> Gerente_de_Tecnologia
-    Gerente_de_Tecnologia --> Estudante_de_Kotlin(Backend_e_Mobile)
+    Gerente_de_Tecnologia --> Estudante_de_Kotlin:Backend_e_Mobile
 ```
