@@ -38,9 +38,11 @@ Se você compartilha da mesma paixão por tecnologia ou deseja colaborar em proj
 
 # 🛤️ Caminho Profissional
 ```mermaid
-graph TD;
-    Gerente_de_Projetos-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+graph TD
+    A[Gerente_de_Projetos] --> B[Desenvolvedor_Web_(NextJs)]
+    B --> C[Tech_Lead_Frontend]
+    B --> D[Desenvolvedor_Mobile_(React_Native)]
+    C --> E[Gerente_de_Tecnologia]
+    D --> E
+    E --> F[Estudando_Kotlin]
 ```
